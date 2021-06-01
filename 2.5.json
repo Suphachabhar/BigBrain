@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "description": "This leaning building is...",
+      "time": 100,
+      "point": 5,
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg==",
+      "choices": [
+        {
+          "id": 1,
+          "choice": "Pisa"
+        },
+        {
+          "id": 2,
+          "choice": "Big Ben"
+        },
+        {
+          "id": 3,
+          "choice": "Pearl Tower"
+        },
+        {
+          "id": 4,
+          "choice": "Eiffel Tower"
+        }
+      ],
+      "answers": [
+        1
+      ]
+    },
+    {
+      "id": 2,
+      "description": "What is this video about?",
+      "time": 100,
+      "point": 5,
+      "src": "http://www.youtube.com/embed/ryleq0KLkRw",
+      "choices": [
+        {
+          "id": 1,
+          "choice": "ReactJS"
+        },
+        {
+          "id": 2,
+          "choice": "Assignment 3"
+        },
+        {
+          "id": 3,
+          "choice": "6080"
+        },
+        {
+          "id": 4,
+          "choice": "Eiffel Tower"
+        }
+      ],
+      "answers": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "name": "My first quiz",
+  "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg=="
+}
