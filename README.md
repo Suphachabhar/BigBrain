@@ -10,6 +10,9 @@
 8. Submission
 9. Late Submission Policy
 
+<a href="https://github.com/Suphachabhar/BigBrain_backend">You can access the backend repository here</a>.
+<a href="https://github.com/Suphachabhar/BigBrain_frontend">You can access the frontend repository here</a>.
+
 ## 0. Change Log
 
 * 02/04: Removed line "There is no lowered expectations for students working on their own - you will be assessed the same as the pairs"
